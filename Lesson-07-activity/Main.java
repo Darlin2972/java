@@ -12,7 +12,7 @@ class Main {
     System.out.println("Enter x");
     double x = Input.readDouble();
     double y = 0;
-     y = Math.pow(x,7);
+    y = Math.pow(x,7);
     System.out.println(y);
 
 
@@ -21,7 +21,8 @@ class Main {
     Challenge 2:
     1) Create the variables, ask the user for the variable values, write the equation in fileEQ1.1-act6 and display the equation value.
 */
-  
+  System.out.println("Enter z");
+  double 
 
 /*  
     Challenge 3:
