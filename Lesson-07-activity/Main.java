@@ -22,22 +22,24 @@ class Main {
     1) Create the variables, ask the user for the variable values, write the equation in fileEQ1.1-act6 and display the equation value.
 */
   System.out.println("Enter z");
-  double 
-
+  double z = Input.readDouble();
+  double q = 0;
+  q = Math.pow(z,3 + 5);
+  System.out.println(q);
 /*  
     Challenge 3:
     Create the variables, ask the user for the variable values, write the equation in file EQ2-act6 and display the equation value..
     
 */
-
- 
+System.out.println("Enter s");
+double s = Input.readDouble();
+double t = 0, r = 0;
 
 /*  
     Challenge 4:
     Create the variables, ask the user for the variable values, write the equation in file EQ3-act6 and display the equation value..
     
 */
-
 
 
 /*  
