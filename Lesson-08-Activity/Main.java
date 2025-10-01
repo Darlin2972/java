@@ -5,6 +5,8 @@ class Main {
 	}
 
   void init(){
+	double c = ftoc(73.5);
+	System.out.println(c);
 
   }
 
@@ -19,17 +21,17 @@ double ftoc(double f){
 }
 
 double sphereVolume(double r){
-	double v =(4/3)*π*r,3;
+	double v =(4/3.0)*Math.PI*r*r*r;
 	return v;
 	
 }
 
-double coneVolume(double r){
-	double h = (1/3)*π*r,2 *h;
-	return h;
+double coneVolume(double r, double h){
+	double v = (1.0/3)*Math.PI*r*r*h;
+	return v;
 }
 double distance(double d){
-	double p = |x2-x2||y2-y1|;
+	double p = Math.sqrt(x1-y1),2+(y2-y1),2;
 	return p;
 }
 }
