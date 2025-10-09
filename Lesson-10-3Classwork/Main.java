@@ -27,7 +27,7 @@ class Main {
         Spent $100 to $200 and purchase at least 3 cans of 
         beans: $10 savings
         Spent over $200 and purchase more than 4 cans 
-        of beans: $25 savings
+        of beans: $25 savings.
         Otherwise: $0 savings.
     */
   double  groupSavings(int tickets){
