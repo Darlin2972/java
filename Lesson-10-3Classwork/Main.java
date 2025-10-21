@@ -3,9 +3,8 @@ class Main {
     (new Main()).init();
   }
 
-  void init(){
+  void init(){ 
 
-        
   }
 
     /*
@@ -30,26 +29,30 @@ class Main {
         of beans: $25 savings.
         Otherwise: $0 savings.
     */
-  double  groupSavings(int tickets){
-    if(tickets >= 1 && tickets <= 8);
+  double groupSavings(int tickets){
+    if(tickets >= 1 && tickets <= 8){
     return 11 * tickets;
-  } 
-  else if (tickets >= 16 && tickets <= 9) {
-    return 10.50 * tickets;
-  }
-  else if (tickets <= 30  && tickets >= 16 ){
-    return 8.50 * tickets;
-  }
-
-int groceryDiscount(int spent){
-    if(spent >= 100 && spent <= 200);
-    return 10 * spent;
-  } 
-    else if spent <= 300 && spent >= 200 {
-    return 25 * spent;
-  }
+    }
+    else if (tickets >= 16 && tickets <= 9){
+      return 10.50 * tickets;
+    }
     else{
-    return 0;
+      return 16;
+    }
   }
-  }
+    
+  
+
+int grocerydiscount(int spent, int beans){
+    if(spent >= 100 && spent <= 200 && beans == 3 &&  beans == 10){
+      return 10 * spent;
+    }
+    else if (spent <= 300 && spent >= 200 && beans == 4 &&  beans == 25){
+      return 25 * spent * beans;
+    }
+    else{
+      return 0;
+    }
+}
+}
 
