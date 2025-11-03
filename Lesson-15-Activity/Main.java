@@ -8,15 +8,15 @@ class Main {
   void printt(Object o){ System.out.print(o);}
 
   void init(){
-System.out.println("Done");
+print(spaces("Done"));
 }
     
   
-int spaces(int N){
- int spaces = 5;
+String spaces(int N){
+ String spaces = "";
 for(int x=5; x<=N; x++)
  spaces+=x;
- return spaces;
+ return "";
 }
 
 int harmonic(int N){
