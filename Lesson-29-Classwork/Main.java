@@ -6,22 +6,14 @@ class Main {
   void printt(Object o){ System.out.print(o);}
 
   void init(){
- dog d1 = new dog("german sheperd", 5,"toto" );
-    d1.bark();
-   
-    
-  }
-  class dog{
-    String breed;
-    int age;
-    String name;
+   Dog d1 = new Dog();
+   d1.name="Toto";
+   d1.age= 4;
+   d1.breed ="german sheperd";
   }
   
-  dog(String breed, int age , String name ){
-    this.breed = breed;
-    this.age = age;
-    this.name = name;
-  }
+
+  
 
 
 
