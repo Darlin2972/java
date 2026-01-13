@@ -14,17 +14,18 @@ class Animal{
  
 
   // other class functions
-  String ishealthy(){
-    if(weight > 30 && weight < 100){
-      return "true";
-    }
-    else{
-      return"false";
-  }
-    }
-     }
+ boolean isHealthy(){
+   if(this.weight> 30 && this.weight<100){
+     return true;
+   }
+   else{
+     return false;
+   }
+ }
+
+   
   
-  String convertPoundsToKilo(){
-    return this.weight = *0.45359237;
+  double convertPoundsToKilo(){
+    return this.weight*0.45359237;
   }
-  
+}

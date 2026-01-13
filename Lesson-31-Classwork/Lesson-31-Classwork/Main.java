@@ -6,21 +6,23 @@ class Main {
   void printt(Object o){ System.out.print(o);}
 
   void init(){
-    Animal Animal1 = new animal("Grizzlybear",400,20.2);
-    Animal Animal2 = new animal("Wolf",90,30.2);
-    if(.isHealthy()){
-      print("Grizzlybear is healthy");
-      else{
-        print("Grizzlybear is unhealthy");
-      }
-    if(.isHealthy()){
-      print("Wolf is healthy");
-      else{
-        print("Wolf is unhealthy");
-  }
-   }
+    Animal bear = new Animal("Bear",400,20.2);
+    Animal wolf = new Animal("wolf",90,30.2);
+
+    if(bear.isHealthy()){
+      print("Bear is healthy");
     }
-  int randInt(int lower, int upper){
+      else{
+        print("Bear is unhealthy");
+      }
+    if(wolf.isHealthy()){
+      print("wolf is healthy");
+    }
+      else{
+        print("wolf is unhealthy");
+  }
+  }
+  int randInt(int lower, int upper){       
     int range = upper - lower;
     return (int)(Math.random()*range+lower);
   }
