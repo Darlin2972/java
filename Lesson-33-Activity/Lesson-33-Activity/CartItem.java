@@ -17,11 +17,9 @@ class CartItem{
   // write getPrice based on condition detailed in 
   // challenges.txt
 double getItemPrice(){
-if (onSale);
-return itemPrice * 0.10;
-else if{
+  if(onSale){
+  return itemPrice;
+  }
   return itemPrice;
 }
 }
-
-

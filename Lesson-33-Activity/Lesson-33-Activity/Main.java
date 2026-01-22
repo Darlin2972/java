@@ -8,11 +8,10 @@ class Main {
   void printt(Object o){System.out.print(o);}
 
   void init(){
-    CartItem CartItem1 = new CartItem("eggs",8,1,onSale);
-    CartItem CartItem2 = new CartItem("milk",5,2,onSale);
-    CartItem CartItem3 = new CartItem("laptop",500,1,onSale);
 
-    print(CartItem1.itemName + CartItem1.itemPrice);
+CartItem cartitem1 = new CartItem("eggs",5.90,1,onSale);
+  
+    
   }
 
 
