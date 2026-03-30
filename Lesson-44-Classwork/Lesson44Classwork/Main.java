@@ -19,13 +19,13 @@ class Main {
     String result="";
     String sql = "";
 
-    sql = "Select from albums"
-    sql += "inner join albums on albums.Artistid = artists.Artistid";
-    result = db.runSQL(sql,"table-auto");
+ 
      
 		Database db = new Database("jdbc:sqlite:chinook.db" );	
 
-    
+     sql = "Select * from artists";
+    sql += "Inner Join albums On albums.ArtistId = artists.ArtistId";
+    result = db.runSQL(sql,"table-auto");  
 
       
   }    
