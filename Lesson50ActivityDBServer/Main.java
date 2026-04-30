@@ -41,9 +41,9 @@ class Main {
 
     server.createContext("/", new RouteHandler("You are connected, but route not given or incorrect....") );
 
-  String sql= " Select * from tracks ";
+  String sql= " Select DISTINCT * from tracks ";
   server.createContext("/tracks", new RouteHandler(db,sql) );
-  sql = " Select tracks.name, tracks.composer, ";
+  sql = " Select tracks.name, tracks.composer, tracks.unitprice, tracks.genreid, ";
   sql +=" albums.title from tracks ";
   sql +=" Inner join  albums  ON tracks.albumid=albums.albumid ";
   server.createContext("/tracksalbum", new RouteHandler(db,sql) );
@@ -55,6 +55,13 @@ class Main {
   sql +=" invoices.invoicedate from customers ";
   sql +=" Inner join  invoices  ON customers.customerid=invoices.customerid ";
   server.createContext("/customersinvoice", new RouteHandler(db,sql2) );
+
+    String sql3= " Select  * from employees ";
+  server.createContext("/employee", new RouteHandler(db,sql3) );
+  sql = " Select employees.firstname, employees.lastname, employees.hiredate, employees.address, ";
+  sql +=" customers.firstname from employees ";
+  sql +=" Inner join  customers  ON employees.firstname=customers.firstname ";
+  server.createContext("/employeescustomers", new RouteHandler(db,sql3) );
   
     //Start the server
     server.start();

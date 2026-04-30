@@ -7,9 +7,6 @@ function init(){
   customers = $.getJSON(link+route).responseJSON;
   generateCards(customers)
 
-  let link2 = "";
-  let route2 ="/";
-  tracks = $.getJSON(link2+route2).responseJSON;
 
   
 
@@ -37,7 +34,6 @@ function generateCards(customers){
   // Now inject the build content into the output container
   centerpanel2.innerHTML = build;
   
-
 }
 
 function filter(){
@@ -56,6 +52,6 @@ function filter(){
   }
   console.log(`number found ${customerList.length}`)
   generateCards(customerList);
-  
-}
 
+
+}

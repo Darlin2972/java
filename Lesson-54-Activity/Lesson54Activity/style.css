@@ -33,7 +33,7 @@ div{
   min-height:500px;
   background-color:Gold;
 }
-#centerpanel, #centerpanel2, #centerpanel3{
+#centerpanel, #centerpanel2, #centerpanel3, #centerpanel4{
   flex:3;
   text-align: center;
   border: solid 2px black;
