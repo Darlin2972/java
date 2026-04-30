@@ -48,7 +48,13 @@ class Main {
   sql +=" Inner join  albums  ON tracks.albumid=albums.albumid ";
   server.createContext("/tracksalbum", new RouteHandler(db,sql) );
 
-  
+
+  String sql2= " Select DISTINCT *  from customers ";
+  server.createContext("/customer", new RouteHandler(db,sql2) );
+  sql = " Select customers.firstname, customers.lastname, customers.email, coustomers.country, customers.city,  ";
+  sql +=" invoices.invoicedate from customers ";
+  sql +=" Inner join  invoices  ON customers.customerid=invoices.customerid ";
+  server.createContext("/customersinvoice", new RouteHandler(db,sql2) );
   
     //Start the server
     server.start();
