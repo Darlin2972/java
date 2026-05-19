@@ -2,8 +2,8 @@ let data,customers;
 function init(){
   $.ajaxSetup({async: false});
   
-  let link = "https://studious-space-yodel-4jv74vxqqqvg3q56g-8500.app.github.dev/customersinvoice";
-  let route= "/customersinvoice"
+  let link = "https://8c0317a3-da6d-4163-9776-1ea1738ed5bc-00-2h0e19hu2e8g5.janeway.replit.dev";
+  let route= "/customers"
   customers = $.getJSON(link+route).responseJSON;
 
   generateCards(customers)

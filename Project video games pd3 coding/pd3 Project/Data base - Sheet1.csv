@@ -1,0 +1,501 @@
+#,Game Title,Description,Genre,Age Rating,Price
+1,Risk of Rain 2,Escape a chaotic alien planet fighting hordes of monsters.,Action Roguelike,17+,24.99
+2,Call of Duty: Black Ops III,Cinematic campaign and intense multiplayer battles.,FPS Shooter,17+,59.99
+3,Titanfall 2,Fast-paced combat with pilots and mechs.,Sci‑Fi Shooter,17+,29.99
+4,Grand Theft Auto V,Explore a massive open-world city full of missions.,Open World Action,17+,29.99
+5,Minecraft,"Build, explore, and survive in blocky worlds.",Sandbox Survival,10+,26.95
+6,Hades,Battle through the Underworld in a fast roguelike.,Action Roguelike,13+,24.99
+7,Stardew Valley,"Farm, fish, mine, and build relationships.",Farming Sim,13+,14.99
+8,Baldur’s Gate 3,Lead a party through a fantasy world of choices.,RPG,17+,59.99
+9,Subnautica,Explore and survive in an alien ocean.,Survival Adventure,13+,29.99
+10,Phasmophobia,Hunt ghosts with paranormal tools.,Horror Co‑op,17+,13.99
+11,Terraria,"Explore, craft, and fight in a 2D world.",Sandbox Adventure,13+,9.99
+12,Elden Ring,Explore a vast open world full of danger.,Action RPG,17+,59.99
+13,Cyberpunk 2077,Futuristic open-world RPG with deep story.,Open World RPG,17+,59.99
+14,Red Dead Redemption 2,Epic western adventure with open-world freedom.,Open World Action,17+,59.99
+15,Apex Legends,Hero-based battle royale shooter.,Battle Royale,13+,0
+16,Dota 2,5v5 competitive MOBA battles.,MOBA,13+,0
+17,Counter‑Strike 2,Tactical 5v5 competitive shooter.,FPS Shooter,17+,0
+18,Valorant,Hero-based tactical shooter.,Tactical Shooter,13+,0
+19,Team Fortress 2,Class-based team shooter.,FPS Shooter,13+,0
+20,Warframe,Fast co‑op looter shooter.,Sci‑Fi Shooter,13+,0
+21,Destiny 2,Online looter shooter with raids.,FPS MMO,13+,0
+22,Rust,"Survive, build, and raid in a harsh world.",Survival PvP,17+,39.99
+23,The Forest,Survive cannibals on a remote island.,Survival Horror,17+,19.99
+24,Sons of the Forest,Survive and build in a dangerous forest.,Survival Horror,17+,29.99
+25,ARK: Survival Evolved,Survive dinosaurs and build bases.,Survival Sandbox,13+,19.99
+26,No Man’s Sky,Explore infinite planets and galaxies.,Space Exploration,13+,59.99
+27,Euro Truck Simulator 2,Drive trucks across Europe.,Driving Sim,10+,19.99
+28,American Truck Simulator,Drive trucks across the U.S.,Driving Sim,10+,19.99
+29,Cities: Skylines II,Build and manage a growing city.,City Builder,13+,49.99
+30,Factorio,Build automated factories and defend them.,Automation Sim,10+,35
+31,RimWorld,Manage a colony on a distant planet.,Colony Sim,13+,34.99
+32,The Sims 4,Live out virtual life stories.,Life Sim,13+,0
+33,Football Manager 2024,Manage a soccer team to victory.,Sports Sim,13+,59.99
+34,FIFA 23,Realistic soccer matches and modes.,Sports,10+,59.99
+35,Rocket League,Cars playing soccer at high speed.,Sports Arcade,10+,0
+36,Forza Horizon 5,Open-world racing across Mexico.,Racing,10+,59.99
+37,Need for Speed Heat,Street racing with police chases.,Racing,13+,59.99
+38,Street Fighter 6,Competitive 1v1 fighting.,Fighting,13+,59.99
+39,Tekken 8,Fast-paced 1v1 fighting.,Fighting,13+,69.99
+40,Mortal Kombat 11,Brutal 1v1 fighting.,Fighting,17+,49.99
+41,Portal 2,Solve puzzles with portals.,Puzzle,10+,9.99
+42,Portal,First-person puzzle adventure.,Puzzle,10+,9.99
+43,Hollow Knight,Explore a vast insect kingdom.,Metroidvania,13+,14.99
+44,Dead Cells,Fast-paced roguelite platformer.,Roguelite,13+,24.99
+45,Slay the Spire,Build decks and climb the spire.,Card Roguelike,13+,24.99
+46,Vampire Survivors,Survive waves of enemies.,Bullet Heaven,13+,4.99
+47,Celeste,Precision platforming with story.,Platformer,10+,19.99
+48,Ori and the Blind Forest,Emotional platforming adventure.,Platformer,10+,19.99
+49,Left 4 Dead 2,Co‑op zombie survival.,Co‑op Shooter,17+,9.99
+50,Five Nights at Freddy’s,Survive animatronic horrors.,Horror,13+,4.99
+51,Inside,"A dark, atmospheric puzzle adventure.",Puzzle Adventure,13+,19.99
+52,Limbo,A haunting 2D puzzle platformer.,Puzzle Platformer,13+,9.99
+53,Don’t Starve,"Survive in a strange, hostile wilderness.",Survival,13+,9.99
+54,Don’t Starve Together,Co‑op survival in a bizarre world.,Survival Co‑op,13+,14.99
+55,Oxygen Not Included,Manage a colony deep underground.,Colony Sim,10+,24.99
+56,Slime Rancher,Collect and raise adorable slimes.,Farming Adventure,10+,19.99
+57,Slime Rancher 2,Explore a colorful slime‑filled world.,Farming Adventure,10+,29.99
+58,Raft,Survive on a raft in the open ocean.,Survival Co‑op,10+,19.99
+59,Grounded,Survive the backyard as a tiny human.,Survival Adventure,10+,39.99
+60,Sea of Thieves,Sail the seas with friends as pirates.,Co‑op Adventure,13+,39.99
+61,The Witcher 3,Epic fantasy RPG with deep story.,RPG,17+,39.99
+62,Fallout 4,Explore a post‑apocalyptic wasteland.,Open World RPG,17+,29.99
+63,Fallout: New Vegas,Classic post‑apocalyptic RPG.,RPG,17+,9.99
+64,Skyrim,Explore a massive fantasy world.,Open World RPG,13+,39.99
+65,Doom Eternal,"Fast, brutal demon‑slaying action.",FPS Shooter,17+,59.99
+66,Doom (2016),Reboot of the classic demon shooter.,FPS Shooter,17+,19.99
+67,Borderlands 3,Loot‑heavy co‑op shooter.,Looter Shooter,17+,59.99
+68,Borderlands 2,Co‑op looter shooter with humor.,Looter Shooter,17+,19.99
+69,Metro Exodus,Story‑driven post‑apocalyptic shooter.,FPS Shooter,17+,39.99
+70,The Division 2,Tactical looter shooter.,Looter Shooter,17+,29.99
+71,Rainbow Six Siege,Tactical 5v5 shooter.,Tactical Shooter,17+,19.99
+72,Escape from Tarkov,Hardcore extraction shooter.,Tactical Shooter,17+,44.99
+73,Hunt: Showdown,PvPvE bounty hunting shooter.,Survival Shooter,17+,39.99
+74,Payday 2,Co‑op heist shooter.,Co‑op Shooter,17+,9.99
+75,Deep Rock Galactic,Co‑op mining and shooting.,Co‑op Shooter,13+,29.99
+76,Helldivers 2,Co‑op alien‑slaying chaos.,Co‑op Shooter,17+,39.99
+77,Monster Hunter: World,Hunt giant monsters with friends.,Action RPG,13+,29.99
+78,Monster Hunter Rise,Fast monster‑hunting action.,Action RPG,13+,39.99
+79,Dark Souls III,Challenging dark fantasy combat.,Action RPG,17+,59.99
+80,Sekiro: Shadows Die Twice,Precision combat in feudal Japan.,Action Adventure,17+,59.99
+81,Nioh 2,"Fast, punishing samurai combat.",Action RPG,17+,49.99
+82,Ghost of Tsushima (PC),Samurai open‑world adventure.,Action Adventure,17+,59.99
+83,The Last of Us Part I,Emotional post‑apocalyptic story.,Action Adventure,17+,59.99
+84,Days Gone,Survive hordes of infected.,Open World Action,17+,49.99
+85,Death Stranding,Deliver packages across a ruined world.,Adventure,17+,59.99
+86,Control,Supernatural action in a shifting building.,Action Adventure,17+,39.99
+87,Alan Wake Remastered,Horror‑driven mystery thriller.,Horror Adventure,17+,29.99
+88,Alan Wake 2,Psychological horror story.,Horror,17+,59.99
+89,Outlast,Survive a terrifying asylum.,Horror,17+,19.99
+90,Outlast 2,First‑person horror in rural America.,Horror,17+,29.99
+91,Amnesia: The Dark Descent,Classic first‑person horror.,Horror,17+,19.99
+92,Amnesia: Rebirth,Story‑driven horror adventure.,Horror,17+,29.99
+93,Little Nightmares,"Dark, atmospheric puzzle adventure.",Puzzle Horror,13+,19.99
+94,Little Nightmares II,Escape creepy creatures and worlds.,Puzzle Horror,13+,29.99
+95,Ori and the Will of the Wisps,Beautiful platforming adventure.,Platformer,10+,29.99
+96,Cuphead,Hand‑drawn boss‑rush platformer.,Platformer,10+,19.99
+97,Shovel Knight,Retro‑style action platformer.,Platformer,10+,24.99
+98,Katana ZERO,"Fast, stylish action with time manipulation.",Action,17+,14.99
+99,Hotline Miami,"Fast, violent top‑down action.",Action,17+,9.99
+100,Enter the Gungeon,Bullet‑hell roguelike shooter.,Roguelike Shooter,13+,14.99
+101,The Binding of Isaac: Rebirth,Randomized dungeons full of monsters and items.,Roguelike,17+,14.99
+102,The Binding of Isaac: Repentance,Massive expansion with new characters and levels.,Roguelike,17+,19.99
+103,Spelunky,Explore dangerous caves full of traps.,Roguelike Platformer,10+,14.99
+104,Spelunky 2,"More traps, more chaos, more caves.",Roguelike Platformer,10+,29.99
+105,Risk of Rain,2D action roguelike with scaling difficulty.,Action Roguelike,13+,9.99
+106,Loop Hero,Build worlds while fighting monsters.,Strategy Roguelike,10+,14.99
+107,Darkest Dungeon,Brutal turn‑based dungeon crawling.,Strategy RPG,17+,24.99
+108,Darkest Dungeon II,Road‑trip style roguelike adventure.,Strategy RPG,17+,39.99
+109,Divinity: Original Sin 2,Deep turn‑based fantasy RPG.,RPG,13+,44.99
+110,Pillars of Eternity,Classic isometric fantasy RPG.,RPG,13+,29.99
+111,Pillars of Eternity II,Sail and explore a magical world.,RPG,13+,39.99
+112,Path of Exile,Deep skill‑tree action RPG.,Action RPG,13+,0
+113,Grim Dawn,Dark fantasy action RPG.,Action RPG,13+,24.99
+114,Diablo III,Fight demons and collect loot.,Action RPG,13+,19.99
+115,Diablo IV,Dark open‑world demon‑slaying.,Action RPG,17+,69.99
+116,Torchlight II,Colorful action RPG with loot.,Action RPG,10+,19.99
+117,Pathologic 2,Survive a plague‑ridden town.,Survival Horror,17+,34.99
+118,The Long Dark,Survive the frozen wilderness.,Survival,13+,34.99
+119,Project Zomboid,Deep zombie survival simulation.,Survival,17+,19.99
+120,7 Days to Die,"Craft, build, and survive zombies.",Survival,17+,24.99
+121,Kenshi,Open‑ended squad‑based sandbox.,Sandbox RPG,17+,29.99
+122,Mount & Blade II: Bannerlord,Lead armies and build kingdoms.,Strategy RPG,13+,49.99
+123,Mount & Blade: Warband,Classic medieval sandbox combat.,Strategy RPG,13+,19.99
+124,Total War: Warhammer III,Massive fantasy battles and strategy.,Strategy,13+,59.99
+125,Total War: Three Kingdoms,Epic battles in ancient China.,Strategy,13+,59.99
+126,Civilization VI,Build a civilization through the ages.,Strategy,10+,59.99
+127,Civilization V,Classic turn‑based strategy.,Strategy,10+,29.99
+128,Stellaris,Explore and rule the galaxy.,Strategy,10+,39.99
+129,Crusader Kings III,Medieval dynasty simulation.,Strategy,13+,49.99
+130,Hearts of Iron IV,WWII grand strategy.,Strategy,13+,39.99
+131,Europa Universalis IV,Deep global strategy.,Strategy,13+,39.99
+132,Frostpunk,Survive in a frozen city.,City Builder,13+,29.99
+133,Banished,Manage a struggling medieval town.,City Builder,10+,19.99
+134,Anno 1800,Build and manage industrial cities.,City Builder,10+,59.99
+135,Tropico 6,Rule an island as “El Presidente.”,City Builder,13+,49.99
+136,Planet Zoo,Build and manage a zoo.,Simulation,10+,44.99
+137,Planet Coaster,Build theme parks and rides.,Simulation,10+,44.99
+138,Zoo Tycoon: Ultimate Animal Collection,Manage a zoo with animals and guests.,Simulation,10+,29.99
+139,RollerCoaster Tycoon Classic,Classic park‑building fun.,Simulation,10+,5.99
+140,House Flipper,Renovate and sell houses.,Simulation,10+,24.99
+141,PowerWash Simulator,Clean everything with a power washer.,Simulation,10+,24.99
+142,Cooking Simulator,Cook meals in a realistic kitchen.,Simulation,10+,19.99
+143,PC Building Simulator,Build and repair PCs.,Simulation,10+,19.99
+144,Car Mechanic Simulator 2021,Fix and restore cars.,Simulation,10+,29.99
+145,Farming Simulator 22,Run a modern farm.,Simulation,10+,49.99
+146,SnowRunner,Drive heavy vehicles through mud and snow.,Driving Sim,10+,29.99
+147,MudRunner,Off‑road vehicle challenges.,Driving Sim,10+,19.99
+148,BeamNG.drive,Realistic soft‑body car physics.,Driving Sim,10+,24.99
+149,Teardown,Destroy buildings with physics‑based tools.,Sandbox,10+,29.99
+150,Besiege,Build machines to complete physics challenges.,Sandbox Builder,10+,14.99
+151,Scrap Mechanic,Build vehicles and machines in a sandbox world.,Sandbox Builder,10+,19.99
+152,Trailmakers,Build vehicles and explore open worlds.,Sandbox Builder,10+,24.99
+153,Space Engineers,Build ships and bases in space.,Sandbox Builder,10+,19.99
+154,Kerbal Space Program,Build rockets and explore space.,Space Sim,10+,39.99
+155,Kerbal Space Program 2,Expanded space exploration sandbox.,Space Sim,10+,49.99
+156,Astroneer,Explore colorful planets and gather resources.,Space Adventure,10+,29.99
+157,Satisfactory,Build massive automated factories.,Automation Sim,10+,29.99
+158,Dyson Sphere Program,Build a galaxy‑spanning factory.,Automation Sim,10+,19.99
+159,Surviving Mars,Build a colony on Mars.,Colony Sim,10+,29.99
+160,Surviving the Aftermath,Rebuild society after apocalypse.,Colony Sim,13+,29.99
+161,Frostpunk 2,Survive and manage a frozen society.,City Builder,17+,59.99
+162,Timberborn,Build a beaver‑run city.,City Builder,10+,24.99
+163,The Planet Crafter,Terraform a dead planet into a living one.,Survival Crafting,10+,19.99
+164,Valheim,Viking co‑op survival adventure.,Survival,13+,19.99
+165,Conan Exiles,Survive and build in a brutal world.,Survival,17+,39.99
+166,Enshrouded,Co‑op survival with magic and exploration.,Survival RPG,13+,29.99
+167,Palworld,Catch creatures and survive with guns.,Survival Adventure,13+,29.99
+168,The Outlast Trials,Co‑op horror survival.,Horror Co‑op,17+,39.99
+169,The Evil Within,Survive twisted nightmares.,Horror,17+,19.99
+170,The Evil Within 2,Story‑driven psychological horror.,Horror,17+,29.99
+171,Resident Evil 2 Remake,Survive zombies in Raccoon City.,Horror,17+,39.99
+172,Resident Evil 3 Remake,Escape Nemesis in this horror remake.,Horror,17+,39.99
+173,Resident Evil 7,First‑person survival horror.,Horror,17+,29.99
+174,Resident Evil Village,Gothic horror adventure.,Horror,17+,59.99
+175,Dead by Daylight,4v1 multiplayer horror.,Horror Multiplayer,17+,19.99
+176,Friday the 13th,Asymmetrical horror survival.,Horror Multiplayer,17+,19.99
+177,The Texas Chain Saw Massacre,4v3 horror multiplayer.,Horror Multiplayer,17+,39.99
+178,The Quarry,Narrative teen horror story.,Horror Adventure,17+,59.99
+179,Until Dawn (PC),Interactive horror story.,Horror Adventure,17+,49.99
+180,Man of Medan,Interactive horror anthology.,Horror Adventure,17+,29.99
+181,Little Hope,Supernatural horror story.,Horror Adventure,17+,29.99
+182,House of Ashes,Military horror adventure.,Horror Adventure,17+,29.99
+183,The Devil in Me,Serial killer horror story.,Horror Adventure,17+,39.99
+184,The Talos Principle,Philosophical puzzle exploration.,Puzzle,10+,29.99
+185,The Talos Principle 2,Expanded puzzle adventure.,Puzzle,10+,49.99
+186,The Witness,Explore an island full of puzzles.,Puzzle,10+,39.99
+187,Baba Is You,Change game rules to solve puzzles.,Puzzle,10+,14.99
+188,Human: Fall Flat,Physics‑based puzzle comedy.,Puzzle Co‑op,10+,19.99
+189,Portal Stories: Mel,Fan‑made Portal puzzle campaign.,Puzzle,10+,0
+190,Superliminal,Forced‑perspective puzzle game.,Puzzle,10+,19.99
+191,The Stanley Parable,Narrative exploration with humor.,Adventure,10+,14.99
+192,The Stanley Parable: Ultra Deluxe,Expanded narrative adventure.,Adventure,10+,29.99
+193,Firewatch,Story‑driven mystery in the wilderness.,Adventure,13+,19.99
+194,What Remains of Edith Finch,Emotional narrative exploration.,Adventure,13+,19.99
+195,Life is Strange,Episodic story with choices.,Adventure,13+,19.99
+196,Life is Strange 2,Road‑trip story with choices.,Adventure,13+,39.99
+197,Life is Strange: True Colors,Empathy‑based narrative adventure.,Adventure,13+,59.99
+198,Tell Me Why,Emotional story about family.,Adventure,13+,0
+199,Oxenfree,Supernatural mystery adventure.,Adventure,13+,9.99
+200,Oxenfree II: Lost Signals,Sequel to the supernatural mystery.,Adventure,13+,24.99
+201,Night in the Woods,Story‑driven adventure about returning home.,Adventure,13+,19.99
+202,Kentucky Route Zero,Surreal narrative road trip.,Adventure,13+,24.99
+203,Spiritfarer,Cozy management game about helping spirits pass on.,Adventure,10+,29.99
+204,Gris,Emotional platforming journey.,Platformer,10+,16.99
+205,Journey (PC),Peaceful exploration through vast landscapes.,Adventure,10+,14.99
+206,ABZÛ,Underwater exploration experience.,Adventure,10+,19.99
+207,Flower,Relaxing movement‑based exploration.,Adventure,10+,6.99
+208,Inside the Backrooms,Co‑op horror in maze‑like rooms.,Horror Co‑op,17+,9.99
+209,Lethal Company,Co‑op scavenging with monsters.,Horror Co‑op,13+,9.99
+210,Devour,Co‑op exorcism horror.,Horror Co‑op,17+,4.99
+211,GTFO,Hardcore co‑op shooter with horror elements.,Co‑op Shooter,17+,39.99
+212,Ready or Not,Tactical SWAT‑style shooter.,Tactical Shooter,17+,49.99
+213,Insurgency: Sandstorm,Realistic tactical FPS.,Tactical Shooter,17+,29.99
+214,Squad,Large‑scale military teamwork shooter.,Tactical Shooter,17+,49.99
+215,Arma 3,Realistic military simulation.,Tactical Shooter,17+,29.99
+216,DayZ,Open‑world zombie survival.,Survival,17+,44.99
+217,SCUM,Deep survival with metabolism systems.,Survival,17+,39.99
+218,Miscreated,Post‑apocalyptic survival.,Survival,17+,24.99
+219,The Isle,Dinosaur survival experience.,Survival,13+,19.99
+220,Path of Titans,Online dinosaur survival.,Survival,10+,29.99
+221,Ark: Survival Ascended,Remake of the dinosaur survival game.,Survival,13+,44.99
+222,Huntdown,Retro‑style action shooter.,Action,13+,19.99
+223,Broforce,Over‑the‑top action platformer.,Action Platformer,13+,14.99
+224,My Friend Pedro,Stylish slow‑mo gun action.,Action,17+,19.99
+225,Katamari Damacy Reroll,Roll up objects in a quirky world.,Puzzle,10+,29.99
+226,Tetris Effect: Connected,Beautiful reinvention of Tetris.,Puzzle,10+,39.99
+227,Peggle Deluxe,Casual arcade puzzle fun.,Puzzle,10+,4.99
+228,Peggle Nights,More Peggle levels and challenges.,Puzzle,10+,4.99
+229,Geometry Dash,Rhythm‑based platforming.,Rhythm Platformer,10+,3.99
+230,Beat Saber (PCVR),Rhythm VR lightsaber game.,Rhythm,10+,29.99
+231,Thumper,“Rhythm violence” action.,Rhythm,10+,19.99
+232,Crypt of the NecroDancer,Rhythm‑based dungeon crawling.,Rhythm Roguelike,10+,14.99
+233,FTL: Faster Than Light,Manage a spaceship through danger.,Strategy,10+,9.99
+234,Into the Breach,Tactical mech combat on small grids.,Strategy,10+,14.99
+235,XCOM 2,Fight aliens with turn‑based tactics.,Strategy,13+,59.99
+236,XCOM: Enemy Unknown,Classic turn‑based alien defense.,Strategy,13+,29.99
+237,Gears Tactics,Fast‑paced tactical combat.,Strategy,17+,59.99
+238,Desperados III,Stealth‑based tactical western.,Strategy,13+,49.99
+239,Shadow Tactics: Blades of the Shogun,Stealth tactics in Edo‑period Japan.,Strategy,13+,39.99
+240,Mutant Year Zero,Tactical combat with mutants.,Strategy RPG,13+,34.99
+241,Wasteland 3,Post‑apocalyptic squad RPG.,RPG,17+,59.99
+242,Disco Elysium,Deep narrative detective RPG.,RPG,17+,39.99
+243,The Outer Worlds,Sci‑fi RPG with humor.,RPG,17+,59.99
+244,GreedFall,Fantasy RPG with diplomacy.,RPG,17+,49.99
+245,Kingdom Come: Deliverance,Realistic medieval RPG.,RPG,17+,29.99
+246,Dragon’s Dogma: Dark Arisen,Action RPG with unique pawn system.,Action RPG,13+,29.99
+247,Dragon’s Dogma 2,Large open‑world fantasy RPG.,Action RPG,17+,69.99
+248,Tales of Arise,Anime‑style action RPG.,Action RPG,13+,59.99
+249,Ni no Kuni II,Charming anime RPG adventure.,RPG,10+,59.99
+250,Yakuza 0,Crime‑drama action adventure.,Action Adventure,17+,19.99
+251,Yakuza Kiwami,Remake of the first Yakuza game.,Action Adventure,17+,19.99
+252,Yakuza Kiwami 2,Remake of Yakuza 2 with updated visuals.,Action Adventure,17+,29.99
+253,Yakuza 6: The Song of Life,Kiryu’s emotional final chapter.,Action Adventure,17+,29.99
+254,Yakuza: Like a Dragon,Turn‑based RPG take on the series.,RPG,17+,59.99
+255,Judgment,Detective action adventure in Kamurocho.,Action Adventure,17+,39.99
+256,Lost Judgment,Sequel with expanded detective gameplay.,Action Adventure,17+,59.99
+257,Sleeping Dogs,Open‑world martial arts crime drama.,Open World Action,17+,19.99
+258,Mafia: Definitive Edition,Remake of the classic mob story.,Action Adventure,17+,39.99
+259,Mafia II: Definitive Edition,Remastered mobster story.,Action Adventure,17+,29.99
+260,Mafia III,Crime drama set in 1960s New Orleans.,Action Adventure,17+,39.99
+261,Watch Dogs,Hacker‑focused open‑world action.,Open World Action,17+,29.99
+262,Watch Dogs 2,Open‑world hacking with a lighter tone.,Open World Action,17+,49.99
+263,Watch Dogs: Legion,Recruit anyone in futuristic London.,Open World Action,17+,59.99
+264,Far Cry 3,Survive a tropical island ruled by pirates.,FPS Shooter,17+,19.99
+265,Far Cry 4,Himalayan open‑world shooter.,FPS Shooter,17+,29.99
+266,Far Cry 5,Fight a cult in rural America.,FPS Shooter,17+,59.99
+267,Far Cry 6,Rebel against a dictator on a tropical island.,FPS Shooter,17+,59.99
+268,Just Cause 3,Explosive open‑world chaos.,Open World Action,17+,19.99
+269,Just Cause 4,More destruction and weather effects.,Open World Action,17+,39.99
+270,Saints Row IV,Superpowered open‑world comedy.,Open World Action,17+,19.99
+271,Saints Row: The Third Remastered,Over‑the‑top open‑world action.,Open World Action,17+,39.99
+272,Mad Max,Post‑apocalyptic vehicular combat.,Action Adventure,17+,19.99
+273,Middle‑earth: Shadow of Mordor,Nemesis‑system orc‑hunting action.,Action Adventure,17+,19.99
+274,Shadow of War,Expanded Nemesis system and battles.,Action Adventure,17+,49.99
+275,Hitman (2016),Stealth assassination sandbox.,Stealth,17+,39.99
+276,Hitman 2,More locations and stealth options.,Stealth,17+,59.99
+277,Hitman 3,Conclusion to the World of Assassination trilogy.,Stealth,17+,59.99
+278,Metal Gear Solid V: The Phantom Pain,Open‑world stealth action.,Stealth,17+,29.99
+279,Thief (2014),First‑person stealth adventure.,Stealth,17+,19.99
+280,Dishonored,Stealth with supernatural powers.,Stealth,17+,19.99
+281,Dishonored 2,Expanded stealth and powers.,Stealth,17+,29.99
+282,Prey (2017),Sci‑fi immersive sim on a space station.,Action Adventure,17+,29.99
+283,BioShock Remastered,Atmospheric underwater shooter.,FPS Shooter,17+,19.99
+284,BioShock 2 Remastered,Return to Rapture with new mechanics.,FPS Shooter,17+,19.99
+285,BioShock Infinite,Sky‑city shooter with story twists.,FPS Shooter,17+,29.99
+286,Titan Quest Anniversary Edition,Mythology‑based action RPG.,Action RPG,13+,19.99
+287,Grim Dawn: Definitive Edition,Expanded dark fantasy ARPG.,Action RPG,13+,64.99
+288,Wolcen: Lords of Mayhem,Fast‑paced action RPG.,Action RPG,17+,39.99
+289,Lost Ark,MMO action RPG with dungeons and raids.,MMO RPG,13+,0
+290,New World,Fantasy MMO with territory control.,MMO RPG,13+,39.99
+291,Black Desert Online,Fast‑action MMO with deep systems.,MMO RPG,13+,9.99
+292,Guild Wars 2,Story‑driven MMO with dynamic events.,MMO RPG,13+,0
+293,The Elder Scrolls Online,MMO set in the Elder Scrolls universe.,MMO RPG,13+,19.99
+294,Final Fantasy XIV,Critically acclaimed MMO RPG.,MMO RPG,13+,19.99
+295,RuneScape,Classic fantasy MMO.,MMO RPG,10+,0
+296,Old School RuneScape,Retro version of the classic MMO.,MMO RPG,10+,0
+297,Warhammer: Vermintide 2,Co‑op melee action against hordes.,Co‑op Action,17+,29.99
+298,Darktide,Co‑op sci‑fi horde shooter.,Co‑op Shooter,17+,39.99
+299,For Honor,Medieval melee combat with factions.,Fighting,17+,29.99
+300,Chivalry 2,Large‑scale medieval battles.,Action,17+,39.99
+301,Mordhau,Medieval multiplayer melee combat.,Action,17+,29.99
+302,Hell Let Loose,Large‑scale WWII battles.,Tactical Shooter,17+,39.99
+303,Enlisted,Squad‑based WWII shooter.,FPS Shooter,13+,0
+304,Post Scriptum,Realistic WWII tactical shooter.,Tactical Shooter,17+,29.99
+305,Rising Storm 2: Vietnam,Intense Vietnam‑era combat.,FPS Shooter,17+,24.99
+306,Battlefield 1,WWI‑themed large‑scale battles.,FPS Shooter,17+,39.99
+307,Battlefield V,WWII‑themed shooter.,FPS Shooter,17+,49.99
+308,Battlefield 4,Modern military shooter.,FPS Shooter,17+,19.99
+309,Titanfall,Fast‑paced mech shooter.,Sci‑Fi Shooter,17+,19.99
+310,Halo: The Master Chief Collection,Collection of Halo campaigns and multiplayer.,FPS Shooter,13+,39.99
+311,Halo Infinite,Arena shooter with campaign.,FPS Shooter,13+,59.99
+312,Splitgate,Portal‑based arena shooter.,FPS Shooter,13+,0
+313,Dirty Bomb,Fast‑paced team shooter.,FPS Shooter,13+,0
+314,Warface,Free‑to‑play modern shooter.,FPS Shooter,13+,0
+315,CrossfireX,Tactical shooter with fast gameplay.,FPS Shooter,13+,0
+316,Paladins,Hero shooter with abilities.,Hero Shooter,13+,0
+317,Overwatch 2,Team‑based hero shooter.,Hero Shooter,13+,0
+318,Smite,Third‑person MOBA with gods.,MOBA,13+,0
+319,League of Legends (via launcher),5v5 MOBA battles.,MOBA,13+,0
+320,Heroes of the Storm,Blizzard’s hero‑based MOBA.,MOBA,13+,0
+321,Brawlhalla,Platform fighting game.,Fighting,10+,0
+322,Rivals of Aether,Indie platform fighter.,Fighting,10+,29.99
+323,Skullgirls,Fast 2D fighting game.,Fighting,13+,24.99
+324,Guilty Gear Strive,Stylish anime fighting game.,Fighting,13+,59.99
+325,BlazBlue: Cross Tag Battle,Crossover anime fighter.,Fighting,13+,49.99
+326,Dragon Ball FighterZ,Fast anime 3v3 fighter.,Fighting,13+,59.99
+327,Naruto Shippuden: Ultimate Ninja Storm 4,Anime arena fighter.,Fighting,13+,29.99
+328,Jump Force,Anime crossover fighter.,Fighting,13+,59.99
+329,Tekken 7,3D fighting with deep mechanics.,Fighting,13+,39.99
+330,Soulcalibur VI,Weapon‑based 3D fighting.,Fighting,13+,59.99
+331,Injustice 2,Superhero fighting game.,Fighting,13+,49.99
+332,Mortal Kombat X,Brutal 1v1 fighting.,Fighting,17+,19.99
+333,Killer Instinct,Fast combo‑heavy fighter.,Fighting,13+,39.99
+334,Forza Motorsport 7,Realistic track racing.,Racing Sim,10+,59.99
+335,Assetto Corsa,Realistic driving simulation.,Racing Sim,10+,19.99
+336,Assetto Corsa Competizione,GT racing simulation.,Racing Sim,10+,39.99
+337,Project CARS 2,Realistic motorsport racing.,Racing Sim,10+,59.99
+338,F1 2023,Formula 1 racing.,Racing,10+,59.99
+339,Wreckfest,Destruction‑focused racing.,Racing,10+,29.99
+340,Need for Speed Rivals,Cops vs racers arcade action.,Racing,10+,19.99
+341,Need for Speed Payback,Cinematic street racing.,Racing,13+,29.99
+342,Need for Speed Unbound,Stylish street racing.,Racing,13+,69.99
+343,Burnout Paradise Remastered,High‑speed open‑world racing.,Racing,10+,19.99
+344,Hot Wheels Unleashed,Arcade racing with toy cars.,Racing,10+,49.99
+345,Trackmania,Fast time‑trial racing.,Racing,10+,0
+346,The Crew 2,"Open‑world racing with cars, boats, planes.",Racing,10+,59.99
+347,The Crew Motorfest,Island‑themed open‑world racing.,Racing,10+,69.99
+348,Dirt Rally 2.0,Realistic rally racing.,Racing Sim,10+,39.99
+349,SnowRunner: Premium Edition,Off‑road vehicle challenges.,Driving Sim,10+,49.99
+350,Euro Truck Simulator,Drive trucks across Europe.,Driving Sim,10+,9.99
+351,Bus Simulator 21,Drive buses across realistic routes.,Driving Sim,10+,34.99
+352,Train Sim World 4,Operate realistic trains across detailed tracks.,Simulation,10+,49.99
+353,Microsoft Flight Simulator,Ultra‑realistic global flight simulation.,Flight Sim,10+,59.99
+354,X‑Plane 12,Professional‑grade flight simulation.,Flight Sim,10+,59.99
+355,Ace Combat 7,Cinematic jet‑fighter action.,Flight Action,13+,59.99
+356,IL‑2 Sturmovik: Great Battles,Realistic WWII air combat.,Flight Sim,13+,49.99
+357,War Thunder (Air),"Free‑to‑play air, land, sea combat.",Vehicle Combat,10+,0
+358,World of Warplanes,Arcade aerial combat.,Vehicle Combat,10+,0
+359,World of Tanks,Tank‑focused multiplayer battles.,Vehicle Combat,10+,0
+360,MechWarrior 5: Mercenaries,Pilot giant mechs in combat missions.,Mech Combat,13+,29.99
+361,Battletech,Turn‑based mech strategy.,Strategy,13+,39.99
+362,Supreme Commander,Large‑scale RTS warfare.,Strategy,10+,14.99
+363,Supreme Commander: Forged Alliance,Expanded large‑scale RTS.,Strategy,10+,14.99
+364,StarCraft II,Competitive sci‑fi RTS.,Strategy,13+,0
+365,Age of Empires II: Definitive Edition,Classic medieval RTS.,Strategy,10+,19.99
+366,Age of Empires IV,Modern take on historical RTS.,Strategy,10+,59.99
+367,Age of Mythology: Retold,Myth‑based RTS remake.,Strategy,10+,59.99
+368,Company of Heroes 2,WWII squad‑based RTS.,Strategy,13+,19.99
+369,Company of Heroes 3,Mediterranean WWII RTS.,Strategy,13+,59.99
+370,Men of War II,Realistic WWII tactical RTS.,Strategy,13+,49.99
+371,Stronghold Crusader HD,Castle‑building medieval RTS.,Strategy,10+,9.99
+372,Stronghold: Warlords,East‑Asian castle RTS.,Strategy,10+,49.99
+373,Northgard,Viking‑themed RTS.,Strategy,10+,29.99
+374,They Are Billions,Steampunk zombie RTS survival.,Strategy,13+,29.99
+375,Frostpunk,Survive and manage a frozen city.,City Builder,13+,29.99
+376,Cities: Skylines,Build and manage a modern city.,City Builder,10+,29.99
+377,Tropico 5,Rule an island as a dictator.,City Builder,13+,29.99
+378,Anno 2205,Futuristic city‑building.,City Builder,10+,49.99
+379,Banished,Manage a struggling medieval settlement.,City Builder,10+,19.99
+380,Planetbase,Build a colony on distant planets.,Colony Sim,10+,19.99
+381,RimWorld: Royalty,Expansion adding quests and factions.,Colony Sim,13+,19.99
+382,RimWorld: Ideology,Expansion adding belief systems.,Colony Sim,13+,19.99
+383,RimWorld: Biotech,Expansion adding genetics and children.,Colony Sim,13+,24.99
+384,Oxygen Not Included,Manage a deep‑space colony.,Colony Sim,10+,24.99
+385,Timberborn,Beaver‑based city building.,City Builder,10+,24.99
+386,Dyson Sphere Program,Build a galaxy‑wide factory.,Automation Sim,10+,19.99
+387,Satisfactory,Build massive automated factories.,Automation Sim,10+,29.99
+388,Factorio,Build and optimize factories.,Automation Sim,10+,35
+389,Shapez,Minimalist factory automation.,Automation Sim,10+,9.99
+390,Autonauts,Automate tasks with robots.,Automation Sim,10+,19.99
+391,Slime Rancher,Collect and raise slimes.,Farming Sim,10+,19.99
+392,Slime Rancher 2,Explore a colorful slime world.,Farming Sim,10+,29.99
+393,Farming Simulator 19,Manage a modern farm.,Farming Sim,10+,29.99
+394,Farming Simulator 22,Updated farming experience.,Farming Sim,10+,49.99
+395,Stardew Valley,Cozy farming and life sim.,Farming Sim,10+,14.99
+396,Graveyard Keeper,Medieval cemetery management.,Management Sim,13+,19.99
+397,Spiritfarer,Manage a ferry for spirits.,Adventure,10+,29.99
+398,My Time at Portia,Crafting and life simulation.,Life Sim,10+,29.99
+399,My Time at Sandrock,Sequel with expanded crafting.,Life Sim,10+,39.99
+400,The Sims 3,Life simulation with expansions.,Life Sim,10+,19.99
+401,The Sims 4,Life simulation with endless customization.,Life Sim,10+,0
+402,House Flipper 2,Renovate and design homes.,Simulation,10+,39.99
+403,PowerWash Simulator,Clean objects with high‑pressure water.,Simulation,10+,24.99
+404,Car Mechanic Simulator 2021,Repair and restore vehicles.,Simulation,10+,29.99
+405,PC Building Simulator 2,Build and repair PCs.,Simulation,10+,24.99
+406,Cooking Simulator,Prepare meals in a realistic kitchen.,Simulation,10+,19.99
+407,Thief Simulator,Stealth‑based burglary gameplay.,Stealth,13+,19.99
+408,Drug Dealer Simulator,Manage an illegal business (fictional).,Crime Sim,17+,19.99
+409,Internet Cafe Simulator,Build and run a gaming café.,Management Sim,10+,19.99
+410,Gas Station Simulator,Restore and run a gas station.,Management Sim,10+,19.99
+411,Lumberjack’s Dynasty,Manage a lumber business.,Simulation,10+,29.99
+412,Medieval Dynasty,Build a village and survive.,Survival RPG,13+,34.99
+413,Wild West Dynasty,Build a settlement in the Old West.,Survival RPG,13+,29.99
+414,Stranded Deep,Survive on remote islands.,Survival,13+,19.99
+415,Green Hell,Survive in the Amazon rainforest.,Survival,17+,24.99
+416,The Infected,Survive against creatures and nature.,Survival,13+,19.99
+417,Medieval Engineers,Build medieval structures.,Sandbox Builder,10+,19.99
+418,Space Haven,Manage a crew in space.,Colony Sim,10+,24.99
+419,Starbound,Explore planets in a 2D universe.,Sandbox Adventure,10+,14.99
+420,Noita,Physics‑based magic roguelike.,Roguelike,13+,19.99
+421,Hollow Knight: Silksong (Upcoming),Metroidvania sequel.,Metroidvania,10+,TBD
+422,Ori and the Will of the Wisps,Emotional platforming adventure.,Platformer,10+,29.99
+423,Rain World,Survive as a small creature in a harsh world.,Survival Platformer,13+,19.99
+424,Dead Cells: Return to Castlevania,DLC expansion with new content.,Roguelite,13+,9.99
+425,Blasphemous,"Dark, brutal action platformer.",Action Platformer,17+,24.99
+426,Blasphemous 2,Sequel with refined combat.,Action Platformer,17+,29.99
+427,Salt and Sanctuary,2D souls‑like action.,Action RPG,17+,19.99
+428,Salt and Sacrifice,Sequel with co‑op options.,Action RPG,17+,29.99
+429,Dark Devotion,Challenging 2D action RPG.,Action RPG,17+,19.99
+430,Hyper Light Drifter,"Fast, stylish action adventure.",Action Adventure,10+,19.99
+431,Hyper Light Breaker (Early Access),Open‑world action sequel.,Action Adventure,13+,29.99
+432,Tunic,Zelda‑like adventure with secrets.,Adventure,10+,29.99
+433,Death’s Door,Beautiful action adventure about souls.,Action Adventure,10+,19.99
+434,Kena: Bridge of Spirits,Story‑driven action adventure.,Action Adventure,10+,39.99
+435,Stray,Explore a cybercity as a cat.,Adventure,10+,29.99
+436,Little Misfortune,"Dark, narrative adventure.",Adventure,13+,14.99
+437,Fran Bow,Psychological point‑and‑click adventure.,Adventure,17+,14.99
+438,Oxenfree,Supernatural mystery adventure.,Adventure,13+,9.99
+439,Oxenfree II: Lost Signals,Sequel with expanded story.,Adventure,13+,24.99
+440,The Wolf Among Us,Noir detective story.,Adventure,17+,14.99
+441,The Walking Dead: Season One,Emotional survival narrative.,Adventure,17+,14.99
+442,The Walking Dead: Season Two,Continue Clementine’s journey.,Adventure,17+,14.99
+443,The Walking Dead: A New Frontier,Story‑driven survival.,Adventure,17+,14.99
+444,The Walking Dead: The Final Season,Clementine’s final chapter.,Adventure,17+,19.99
+445,Tales from the Borderlands,Comedy adventure in the Borderlands universe.,Adventure,13+,14.99
+446,Batman: The Telltale Series,Narrative detective adventure.,Adventure,13+,14.99
+447,Batman: The Enemy Within,Sequel with deeper choices.,Adventure,13+,14.99
+448,Life is Strange Remastered,Updated version of the original story.,Adventure,13+,29.99
+449,Life is Strange: Before the Storm,Prequel story.,Adventure,13+,16.99
+450,Life is Strange 2,Road‑trip narrative adventure.,Adventure,13+,39.99
+451,Detroit: Become Human,Narrative sci‑fi story about androids.,Adventure,13+,39.99
+452,Heavy Rain,Mystery thriller with branching choices.,Adventure,17+,19.99
+453,Beyond: Two Souls,Supernatural narrative adventure.,Adventure,13+,19.99
+454,Alan Wake Remastered,Horror mystery thriller.,Horror Adventure,17+,29.99
+455,Control: Ultimate Edition,Supernatural action in a shifting building.,Action Adventure,17+,39.99
+456,Quantum Break,Time‑bending action shooter.,Action Adventure,17+,39.99
+457,Sunset Overdrive,Colorful open‑world chaos.,Action,13+,19.99
+458,Hi‑Fi Rush,Rhythm‑based action combat.,Rhythm Action,10+,29.99
+459,Ori and the Blind Forest,Emotional platforming adventure.,Platformer,10+,19.99
+460,Ori and the Will of the Wisps,Expanded platforming adventure.,Platformer,10+,29.99
+461,Hollow Knight,Explore a vast insect kingdom.,Metroidvania,10+,14.99
+462,Axiom Verge,Retro‑style sci‑fi Metroidvania.,Metroidvania,10+,19.99
+463,Axiom Verge 2,Sequel with new worlds.,Metroidvania,10+,29.99
+464,Dead Cells,Fast roguelite platformer.,Roguelite,13+,24.99
+465,Hades,Escape the Underworld in a roguelike.,Action Roguelike,13+,24.99
+466,Hades II (Early Access),Sequel with new gods and weapons.,Action Roguelike,13+,29.99
+467,Risk of Rain Returns,Remake of the original roguelike.,Action Roguelike,10+,14.99
+468,Wizard of Legend,Fast spell‑casting action.,Action Roguelike,10+,15.99
+469,Children of Morta,Family‑based action RPG.,Action RPG,10+,21.99
+470,Moonlighter,Shopkeeping meets dungeon crawling.,Action RPG,10+,19.99
+471,CrossCode,Retro‑style action RPG.,Action RPG,10+,19.99
+472,Ender Lilies,Dark fantasy Metroidvania.,Metroidvania,13+,24.99
+473,Salt and Sanctuary,2D souls‑like action.,Action RPG,17+,19.99
+474,Salt and Sacrifice,Sequel with co‑op.,Action RPG,17+,29.99
+475,Dark Souls Remastered,Classic challenging action RPG.,Action RPG,17+,39.99
+476,Dark Souls II: Scholar of the First Sin,Expanded edition of DS2.,Action RPG,17+,39.99
+477,Dark Souls III,Epic dark fantasy combat.,Action RPG,17+,59.99
+478,Sekiro: Shadows Die Twice,Precision samurai combat.,Action Adventure,17+,59.99
+479,Elden Ring,Massive open‑world fantasy RPG.,Action RPG,17+,59.99
+480,Lies of P,Pinocchio‑inspired souls‑like.,Action RPG,17+,59.99
+481,Wo Long: Fallen Dynasty,Fast Three Kingdoms‑era combat.,Action RPG,17+,59.99
+482,Nioh,"Fast, punishing samurai action.",Action RPG,17+,29.99
+483,Nioh 2,Expanded combat and customization.,Action RPG,17+,49.99
+484,Code Vein,Anime‑style souls‑like.,Action RPG,17+,59.99
+485,Remnant: From the Ashes,Co‑op shooter with souls‑like elements.,Co‑op Shooter,17+,39.99
+486,Remnant II,Sequel with expanded worlds.,Co‑op Shooter,17+,49.99
+487,The Surge,Sci‑fi souls‑like with exosuits.,Action RPG,17+,29.99
+488,The Surge 2,Improved combat and exploration.,Action RPG,17+,39.99
+489,Mortal Shell,Minimalist souls‑like combat.,Action RPG,17+,29.99
+490,Blasphemous,"Dark, brutal 2D action.",Action Platformer,17+,24.99
+491,Blasphemous 2,Expanded sequel with new weapons.,Action Platformer,17+,29.99
+492,Katana ZERO,Stylish time‑bending action.,Action,17+,14.99
+493,Hotline Miami,Fast top‑down action.,Action,17+,9.99
+494,Hotline Miami 2,Even more intense top‑down action.,Action,17+,14.99
+495,Enter the Gungeon,Bullet‑hell roguelike shooter.,Roguelike Shooter,10+,14.99
+496,Exit the Gungeon,Arcade‑style follow‑up.,Roguelike Shooter,10+,9.99
+497,Nuclear Throne,Fast post‑apocalyptic roguelike.,Roguelike Shooter,13+,11.99
+498,Broforce,Over‑the‑top action platformer.,Action Platformer,13+,14.99
+499,Teardown,Fully destructible physics sandbox.,Sandbox,10+,29.99
+500,Totally Accurate Battle Simulator,Wacky physics‑based battles.,Simulation,10+,19.99
