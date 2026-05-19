@@ -18,7 +18,7 @@ Add the card to the container "flipcard_output"
   data = await info.json();
   console.log(data);
 
-
+ window.onload = function(){ 
   let back="";
   let front="";
   
@@ -38,3 +38,4 @@ Add the card to the container "flipcard_output"
 
  
 }
+  }
