@@ -1,13 +1,6 @@
 
 // Data contain the hero name, image file name and description.
-  let data = [
-  {name:"HULK",img:"hulk.png",description:"The Hulk is a superhero appearing in American comic books published by Marvel Comics"},
-  
-  {name:"IRONMAN",img:"ironman.png",description:"Iron Man is a superhero appearing in American comic books published by Marvel Comics."},
-  
-  {name:"BLACK PANTHER",img:"blackpanther.jpg",description:"T'Challa is the king of Wakanda, the secretive and highly advanced African nation, as well as the powerful warrior known as the Black Panther."},
-  ]
-
+let data,Games;
 
 /*
 Problem 
@@ -18,18 +11,25 @@ Have the front of the card display the image of the hero and the back of the car
 
 Add the card to the container "flipcard_output"
 */
-window.onload = function(){  
-  
+  async function init(){
+  let Games = "https://studious-space-yodel-4jv74vxqqqvg3q56g-8500.app.github.dev/Games";
+  let route= "/Games"
+  info = await fetch(link+route);
+  data = await info.json();
+  console.log(data);
+
 
   let back="";
   let front="";
   
-  for(let i=0; i<data.length; i++){
-    let hero = data[i];
-    front = `<img src='images/${hero.img}'>`;
-
-    back = `<h2>${hero.name}</h2>`;
-    back+= `<p>${hero.description}</p>`;
+  for(let i=0; i<Games.length; i++){
+    let Game = Games[i];
+    front = `<img src='images/${Game.img}'>`;
+    back = `<h2>${Game.GameTitle}</h2>`;
+    back+= `<p>${Game.Description}</p>`;
+    back+= `<p>${Game.Genre}</p>`;
+    back+= `<p>${Game.AgeRating}</p>`;
+    back+= `<p>${Game.Price}</p>`;
     back+= `<hr>`;
 
     card = new FlipCard(front,back);
