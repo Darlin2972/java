@@ -17,10 +17,10 @@ let data,Games;
   
   for(let i=0; i<Games.length; i++){
     let Game = Games[i];
-    //front = `<img src='images/${data.img}'>`;
-    front = `<img src='images/${Game.img}.jpg'>`;
-
-    back = `<h2>${Game.GameTitle}</h2>`;
+    front = `<h2>${Game.GameTitle}</h2>`;
+    front += `<img src='images/${Game.GameTitle}.jpg'>`;
+    //front += `<h2>${Game.GameTitle}</h2>`;
+    //back = `<h2>${Game.GameTitle}</h2>`;
     back+= `<p>${Game.Description}</p>`;
     back+= `<p>${Game.Genre}</p>`;
     back+= `<p>${Game.AgeRating}</p>`;
@@ -31,4 +31,3 @@ let data,Games;
     card.render("flipcard_output");
   }
 }
-  

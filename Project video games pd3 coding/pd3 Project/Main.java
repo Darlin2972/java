@@ -40,7 +40,7 @@ class Main {
     
     server.createContext("/", new RouteHandler("You are connected, but route not given or incorrect....") );
 
-  String sql= " Select * from Games ";
+  String sql= " Select * from Games Limit 30";
   server.createContext("/Games", new RouteHandler(db,sql) );
   
   
