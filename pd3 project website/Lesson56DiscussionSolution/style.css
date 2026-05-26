@@ -38,7 +38,7 @@ nav a:hover{
 
  
 .card{
-  flex:1;
+  flex:3;
   padding: 10px;
 }
 h2{
@@ -52,7 +52,8 @@ h2{
   align-items:center;
 }
 .flip-card{
-flex:1;
+display:flex;
+flex:3;
 }
 img{
   max-height:200px;

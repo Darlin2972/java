@@ -44,7 +44,7 @@ class Main {
   server.createContext("/Games", new RouteHandler(db,sql) );
   
   
-  String sql2= " Select * from Memberlist  ";
+  String sql2= " Select * from Members Limit 30";
   server.createContext("/Members", new RouteHandler(db,sql2) );
 
 
