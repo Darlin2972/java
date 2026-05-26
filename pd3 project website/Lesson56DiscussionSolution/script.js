@@ -19,10 +19,10 @@ async function init(){
     front = `<h2>${Game.GameTitle}</h2>`;
     front += `<img src='Images/${Game.Images}.jpg'>`
 
-    back = `<p>${Game.Description}</p>`;
-    back+= `<p>${Game.Genre}</p>`;
-    back+= `<p>${Game.AgeRating}</p>`;
-    back+= `<p>${Game.Price}</p>`;
+    back = `<p> Description: ${Game.Description}</p>`;
+    back+= `<p> Genre: ${Game.Genre}</p>`;
+    back+= `<p> Age Rating: ${Game.AgeRating}</p>`;
+    back+= `<p> Price: ${Game.Price}</p>`;
     back+= `<hr>`;
 
     card = new FlipCard(front,back);
