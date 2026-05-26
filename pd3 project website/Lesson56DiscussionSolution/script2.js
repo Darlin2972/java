@@ -1,7 +1,7 @@
 let data,Members;
 
   async function init(){
-  let link = "https://studious-space-yodel-4jv74vxqqqvg3q56g-8500.app.github.dev/Members";
+  let link = "https://studious-space-yodel-4jv74vxqqqvg3q56g-8500.app.github.dev";
   let route= "/Members"
   info = await fetch(link+route);
   data = await info.json();
@@ -16,10 +16,10 @@ function generatecards(Members){
   for(let i=0; i<Members.length; i++){
     let Member = Members[i]
     build += `<div class="card" >`
-    build += `<h3> Customer ID : ${Member.Name}</h3>`;
-    build += `<div> First Name : ${Member.Numbergamebought}</div>`;
-    build += `<div> Last Name : ${Member.Age}</div>`;
-    build += `<div> Country : ${Member.Paymenttype}</div>`;
+    build += `<h3> Member Name : ${Member.Name}</h3>`;
+    build += `<div> amount of games bought  : ${Member.Numbergamebought}</div>`;
+    build += `<div> Age : ${Member.Age}</div>`;
+    build += `<div> Payment type  : ${Member.Paymenttype}</div>`;
     build += `<p> Email : ${Member.Gmail}</p>`;
     build += `<hr>`;
     build += `</div>`;
@@ -29,4 +29,24 @@ function generatecards(Members){
   centerpanel.innerHTML = build;
   
 
+}
+
+
+function filter(){
+  let card = document.getElementById("card").value;
+  console.log(card);
+
+  let cardlist = []; 
+  
+  for(let i=0; i<Members.length; i++){
+    let Member = Members[i] 
+    //make sure the list is no
+    if( Member.Paymenttype == card) {
+          //add to the new list
+          customerList.push(Member);
+       }
+  }
+  console.log(`number found ${cardList.length}`)
+  generateCards(cardList);
+  
 }

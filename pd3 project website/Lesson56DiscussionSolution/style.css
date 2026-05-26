@@ -55,6 +55,7 @@ h2{
 display:flex;
 flex:3;
 }
+
 img{
   max-height:200px;
 }
@@ -87,7 +88,7 @@ img{
 }
 #centerpanel, #centerpanel2, #centerpanel3, #centerpanel4{
   flex:3;
-  text-align:center;
+  text-align: center;
   border: solid 2px black;
   min-height:500px;
   background-color:red;

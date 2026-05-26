@@ -38,10 +38,10 @@ function filter(){
   let country = document.getElementById("country").value;
   console.log(country);
 
-  let customerList = []; //create a list of songs searched for
+  let customerList = []; 
   
   for(let i=0; i<customers.length;i++){
-    let customer = customers[i] //get each sog
+    let customer = customers[i] 
     //make sure the list is no
     if( customer.Country == country ) {
           //add to the new list

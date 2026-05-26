@@ -2,8 +2,8 @@
 let Data,Games;
 
 async function init(){
-  let link = "https://studious-space-yodel-4jv74vxqqqvg3q56g-8500.app.github.dev/Games";
-  let route= ""
+  let link = "https://studious-space-yodel-4jv74vxqqqvg3q56g-8500.app.github.dev";
+  let route= "/Games"
   info = await fetch(link+route);
   Data = await info.json();
   console.log(Data);
