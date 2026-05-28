@@ -35,18 +35,18 @@ function generatecards(Members){
 function filter(){
   let card = document.getElementById("card").value;
   console.log(card);
-
+  Members = data;
   let cardlist = []; 
   
   for(let i=0; i<Members.length; i++){
     let Member = Members[i] 
-    //make sure the list is no
+    
     if( Member.Paymenttype == card) {
-          //add to the new list
-          customerList.push(Member);
+        
+          cardlist.push(Member);
        }
   }
-  console.log(`number found ${cardList.length}`)
-  generateCards(cardList);
+  console.log(`number found ${cardlist.length}`)
+  generatecards(cardlist);
   
 }
