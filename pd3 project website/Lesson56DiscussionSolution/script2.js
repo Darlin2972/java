@@ -1,7 +1,7 @@
 let data,Members;
 
   async function init(){
-  let link = "https://studious-space-yodel-4jv74vxqqqvg3q56g-8500.app.github.dev";
+  let link ="https://studious-space-yodel-4jv74vxqqqvg3q56g-8500.app.github.dev";
   let route= "/Members"
   info = await fetch(link+route);
   data = await info.json();
@@ -17,7 +17,7 @@ function generatecards(Members){
     let Member = Members[i]
     build += `<div class="card" >`
     build += `<h3> Member Name : ${Member.Name}</h3>`;
-    build += `<div> amount of games bought  : ${Member.Numbergamebought}</div>`;
+    build += `<div> amount of games bought  : ${Member.Numbergamesbought}</div>`;
     build += `<div> Age : ${Member.Age}</div>`;
     build += `<div> Payment type  : ${Member.Paymenttype}</div>`;
     build += `<p> Email : ${Member.Gmail}</p>`;
