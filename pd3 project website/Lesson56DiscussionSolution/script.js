@@ -29,3 +29,22 @@ async function init(){
     card.render("flipcard_output");
   }
 }
+
+function filter(){
+  let games = document.getElementById("games").value;
+  console.log(games);
+  Games = data;
+  let gamelist = []; 
+  
+  for(let i=0; i<Games.length; i++){
+    let game = Games[i] 
+    
+    if( game.Genre == games) {
+        
+          cardlist.push(game);
+       }
+  }
+  console.log(`number found ${cardlist.length}`)
+  generatecards(cardlist);
+  
+}

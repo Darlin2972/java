@@ -3,7 +3,7 @@ html, body {
   margin: 0 auto;
   font-family: 'Times New Roman', Times, serif;
   background-color: #0b1120;
-  color: #c8d8f0;
+  color:black;
 }
  
 #banner {
@@ -61,7 +61,7 @@ nav a:first-child {
  
 .subbanner {
   background-color: #0d1a38;
-  color: #c8d8f0;
+  color:#c8d8f0;
   padding: 8px 20px;
   font-size: 0.85em;
   border-top: 1px solid #1a3a6e;
@@ -111,7 +111,7 @@ nav a:first-child {
   border: solid 2px #1a5fa8;
   min-height: 500px;
   background-color: #080e1c;
-  color: #c8d8f0;
+  color: black ;
   overflow: auto;
   border-left: 4px solid #2a6fdd;
 }
@@ -178,7 +178,7 @@ h3 {
  
 .flip-card-inner {
   position: relative;
-  width: 100%;
+  width: 30%;
 }
  
 .flip-card:hover .flip-card-inner {
@@ -202,15 +202,15 @@ h3 {
  
 .flip-card-back {
   background-color: #000000;
-  color: #a0c8f0;
+  color:#a0c8f0;
   transform: rotateY(180deg);
   border-color: #2a6fba;
 }
 
 
 img {
-  max-height: 300px;
-  width: 300px;
+  max-height: 140px;
+  width: 200px;
 }
  
 .button {
