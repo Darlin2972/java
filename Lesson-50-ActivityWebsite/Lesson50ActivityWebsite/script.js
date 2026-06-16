@@ -29,25 +29,4 @@ function  generateCards(tracks){
 output.innerHTML = build;
 
 
-
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

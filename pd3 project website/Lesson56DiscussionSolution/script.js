@@ -33,18 +33,18 @@ async function init(){
 function filter(){
   let games = document.getElementById("games").value;
   console.log(games);
-  Games = data;
+  Games = Data;
   let gamelist = []; 
   
   for(let i=0; i<Games.length; i++){
     let game = Games[i] 
     
-    if( game.Genre == games) {
+    if( game.Price == games) {
         
-          cardlist.push(game);
+          gamelist.push(game);
        }
   }
-  console.log(`number found ${cardlist.length}`)
-  generatecards(cardlist);
+  console.log(`number found ${gamelist.length}`)
+  generatecards(gamelist);
   
 }
